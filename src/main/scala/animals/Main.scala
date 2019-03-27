@@ -1,5 +1,7 @@
 package animals
 
+import com.github.javafaker.{Faker, GameOfThrones}
+
 /**
   * @author Evgeny Borisov
   */
